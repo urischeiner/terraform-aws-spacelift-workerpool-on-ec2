@@ -1,3 +1,3 @@
 # Default VPC
 
-In this example, we are setting up an EC2 autoscaling group inside a default VPC. test4
+In this example, we are setting up an EC2 autoscaling group inside a default VPC. test7
